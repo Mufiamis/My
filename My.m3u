@@ -825,3 +825,471 @@ https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 https://ythls.onrender.com/channel/UCOll3M-P7oKs5cSrQ9ytt6g.m3u8
 #EXTINF:-1 tvg-id="ZagrosTV.iq" tvg-logo="https://i.imgur.com/9Mspf32.png" group-title="General",Zagros (720p) [Not 24/7]
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="123tv.de" group-title="Ge Ah",1-2-3 TV (270p)
+https://123tv-mx1.flex-cdn.net/index.m3u8
+#EXTINF:-1 tvg-id="3sat.de" group-title="Ge Ah",3sat (720p) [Geo-blocked]
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:-1 tvg-id="AdriaMusicTelevision.de" group-title="Ge Ah",ADRIA Music (1080p)
+https://cdne.folxplay.tv/folx-trz/streams/ch-1/master.m3u8
+#EXTINF:-1 tvg-id="AlexBerlin.de" group-title="Ge Ah",Alex Berlin (1080p) [Not 24/7]
+https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AllgauTV.de" group-title="Ge Ah",Allgäu TV (1080p)
+https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AltenburgTV.de" group-title="Ge Ah",Altenburg TV (1080p)
+https://58de7a369a9c4.streamlock.net/abgtv/abgtv_1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="ANIMALKINGDOM.de" group-title="Ge Ah",ANIMAL KINGDOM (720p)
+https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8
+#EXTINF:-1 tvg-id="AnixePlus.de" group-title="Ge Ah",Anixe + (360p)
+https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
+#EXTINF:-1 tvg-id="AnixeHDSerie.de" group-title="Ge Ah",Anixe HD Serie (360p)
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:-1 tvg-id="ARDalpha.de" group-title="Ge Ah",ARD-alpha (720p)
+http://livestreams.br.de/i/bralpha_Ge Ah@119899/master.m3u8
+#EXTINF:-1 tvg-id="ARDalpha.de" group-title="Ge Ah",ARD-alpha (720p) [Not 24/7]
+https://brlive-lh.akamaihd.net/i/bralpha_Ge Ah@119899/master.m3u8
+#EXTINF:-1 tvg-id="AristoTV.de" group-title="Ge Ah",Aristo TV (360p)
+https://ma.anixa.tv/clips/stream/aristo/index.m3u8
+#EXTINF:-1 tvg-id="arte.de" group-title="Ge Ah",ARTE (720p) [Geo-blocked]
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+#EXTINF:-1 tvg-id="AugsburgTV.de" group-title="Ge Ah",Augsburg TV (1080p)
+https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AugsburgTV.de" group-title="Ge Ah",Augsburg TV (a.tv) (1080p) [Not 24/7]
+https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="BadenTV.de" group-title="Ge Ah",Baden TV (1080p) [Not 24/7]
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:-1 tvg-id="BadenTV.de" group-title="Ge Ah",Baden TV (1080p) [Not 24/7]
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BadenTV.de" group-title="Ge Ah",Baden TV (1080p) [Not 24/7]
+https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BadenTVSud.de" group-title="Ge Ah",Baden TV Süd (480p)
+https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BibelTV.de" group-title="Ge Ah",Bibel TV (720p)
+https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="BibelTVImpuls.de" group-title="Ge Ah",Bibel TV Impuls (720p)
+https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="BibelTVMusik.de" group-title="Ge Ah",Bibel TV Musik (720p)
+https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="BLKRegionalTV.de" group-title="Ge Ah",BLK Regional TV (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
+#EXTINF:-1 tvg-id="BLKRegionalTV.de" group-title="Ge Ah",BLK TV (1080p) [Not 24/7]
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
+#EXTINF:-1 tvg-id="BLKRegionalTV.de" group-title="Ge Ah",BLK TV Hohenmölsen (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8?ref=medienportal-sachsen-
+#EXTINF:-1 tvg-id="BRFernsehenNord.de" group-title="Ge Ah",BR Fernsehen Nord (720p)
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="BRFernsehenSud.de" group-title="Ge Ah",BR Fernsehen Süd (720p)
+https://brcdn.vo.llnwd.net/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="SachsenFernsehenChemnitz.de" group-title="Ge Ah",Chemnitz Fernsehen (1080p)
+https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="DasErste.de" group-title="Ge Ah",Das Erste (1080p)
+https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
+#EXTINF:-1 tvg-id="DasErste.de" group-title="Ge Ah",Das Erste (1080p) [Geo-blocked]
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 tvg-id="DASDING908.de" group-title="Ge Ah",DASDING 90.8 (720p)
+https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
+#EXTINF:-1 tvg-id="DeluxeDance.de" group-title="Ge Ah",Deluxe Dance (1080p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 tvg-id="DeluxeFlashback.de" group-title="Ge Ah",Deluxe Flashback (1080p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
+#EXTINF:-1 tvg-id="DeluxeLounge.de" group-title="Ge Ah",Deluxe Lounge (1080p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2489
+#EXTINF:-1 tvg-id="DeluxeMusic.de" group-title="Ge Ah",Deluxe Music (720p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-id="DeluxeRap.de" group-title="Ge Ah",Deluxe Rap (1080p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 tvg-id="DerAktionaerTV.de" group-title="Ge Ah",Der Aktionär TV (720p)
+https://live2.telvi.de/hls/aktionaertv.m3u8
+#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" group-title="Ge Ah",Deutsches Musik Fernsehen (1080p) [Not 24/7]
+https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
+#EXTINF:-1 tvg-id="SachsenFernsehenDresden.de" group-title="Ge Ah",Dresden Fernsehen (1080p) [Not 24/7]
+https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="EchtJetztTV.de" group-title="Ge Ah",EchtJetzt TV (720p)
+https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="emsTVLingen.de" group-title="Ge Ah",ems TV Lingen (720p)
+https://h058.video-stream-hosting.de/ev1tv-live/_definst_/mp4:stream1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ErzTVStollberg.de" group-title="Ge Ah",Erz-TV Stollberg (576p)
+https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="EuroAlTV.de" group-title="Ge Ah",EuroAl TV (720p)
+http://5.135.92.131:1935/live/euroAl/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsGerman.fr" group-title="Ge Ah",Euronews German (720p)
+https://rakuten-euronews-5-de.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="EWTN.de" group-title="Ge Ah",EWTN Ge Ah (720p)
+https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Filstalwelle.de" group-title="Ge Ah",Filstalwelle (1080p)
+https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="FinestTV.de" group-title="Ge Ah",Finest TV (288p) [Not 24/7]
+https://media.finest.tv/hls/live.m3u8
+#EXTINF:-1 tvg-id="FolxMusicTelevision.de" group-title="Ge Ah",FOLX Music (1080p)
+https://cdne.folxplay.tv/folx-trz/streams/ch-4/master.m3u8
+#EXTINF:-1 tvg-id="FrankenFernsehen.de",Franken Fernsehen (Nürnberg) (1080p) [Not 24/7]
+https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="GoodSound.de" group-title="Ge Ah",Good-Sound (720p)
+http://148.251.76.72:8081/goodsound/goodsound.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="h1.de" group-title="Ge Ah",H1 Fernsehen (1080p)
+https://5857499ee635b.streamlock.net/heinstv-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Hamburg1.de" group-title="Ge Ah",Hamburg 1 (1080p)
+https://stream.hamburg1.de/live_abr/hamburg1_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="Handystar.de" group-title="Ge Ah",Handystar (404p) [Not 24/7]
+https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8
+#EXTINF:-1 tvg-id="HauptstadtTV.de" group-title="Ge Ah",Hauptstadt.TV (Potsdam) (720p) [Not 24/7]
+https://live2.telvi.de/hls/hauptstadttv_hd720.m3u8
+#EXTINF:-1 tvg-id="HopeChannelGerman.de" group-title="Ge Ah",Hope Channel German (1080p)
+https://customer-x8zydurm357k8j9p.cloudflarestream.com/5b46490d20cdd87fcac238b0027813e0/manifest/video.m3u8
+#EXTINF:-1 tvg-id="hrfernsehen.de" group-title="Ge Ah",hr-fernsehen (1080p)
+https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:-1 tvg-id="HSE.de" group-title="Ge Ah",HSE (1080p)
+https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
+#EXTINF:-1 tvg-id="HSEExtra.de" group-title="Ge Ah",HSE24 Extra (1080p)
+https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
+#EXTINF:-1 tvg-id="HSETrend.de" group-title="Ge Ah",HSE24 Trend (576p)
+https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
+#EXTINF:-1 tvg-id="iSTUFF.de" group-title="Ge Ah",iSTUFF (720p) [Not 24/7]
+https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
+#EXTINF:-1 tvg-id="Juwelo.de" group-title="Ge Ah",Juwelo (720p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8
+#EXTINF:-1 tvg-id="Kanal12SprembergTV.de" group-title="Ge Ah",Kanal12 Spremberg TV (404p) [Not 24/7]
+https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="KanalAvrupa.de" group-title="Ge Ah",Kanal Avrupa (1080p)
+https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
+#EXTINF:-1 tvg-id="KaufBeiTV.de" group-title="Ge Ah",KaufBei TV (576p)
+https://api.alpaca.t62a.com/hls/9103/index.m3u8
+#EXTINF:-1 tvg-id="KhaterehTV.de" group-title="Ge Ah",Khatereh TV (720p)
+https://khaterehhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="KiKA.de" group-title="Ge Ah",KiKA (1080p) [Geo-blocked]
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
+#EXTINF:-1 tvg-id="KiKA.de" group-title="Ge Ah",KiKA (1080p) [Not 24/7]
+https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
+#EXTINF:-1 tvg-id="KulturMD.de" group-title="Ge Ah",KulturMD (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
+#EXTINF:-1 tvg-id="KWTVWildau.de" group-title="Ge Ah",KW TV Wildau (720p) [Not 24/7]
+https://58af0c57eaf3e.streamlock.net/easycast11-live/mp4:livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="LTV.de" group-title="Ge Ah",L-TV (720p)
+https://live2.telvi.de/hls/l-tv_s1.m3u8
+#EXTINF:-1 tvg-id="Lausitzwelle.de" group-title="Ge Ah",Lausitzwelle (1080p)
+https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=
+#EXTINF:-1 tvg-id="SachsenFernsehenLeipzig.de" group-title="Ge Ah",Leipzig Fernsehen (1080p)
+https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="LightChannel.de" group-title="Ge Ah",Light Channel (576p) [Not 24/7]
+http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
+#EXTINF:-1 tvg-id="MagentaMusik360.de" group-title="Ge Ah",Magenta Musik 360 (1080p)
+https://streaming.magentamusik.de/csm/573870/magentamusik1/index.m3u8
+#EXTINF:-1 tvg-id="MDF1.de" group-title="Ge Ah",MDF.1 (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
+#EXTINF:-1 tvg-id="MDRFernsehenSachsen.de" group-title="Ge Ah",MDR Fernsehen Sachsen (1080p) [Geo-blocked]
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8
+#EXTINF:-1 tvg-id="MDRFernsehenSachsenAnhalt.de" group-title="Ge Ah",MDR Fernsehen Sachsen-Anhalt (1080p) [Geo-blocked]
+https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/index.m3u8
+#EXTINF:-1 tvg-id="MDRFernsehenThuringen.de" group-title="Ge Ah",MDR Fernsehen Thüringen (1080p) [Geo-blocked]
+https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/index.m3u8
+#EXTINF:-1 tvg-id="MeieTV.de" group-title="Ge Ah",MeieTV (720p)
+https://stream.meietv.de/live/meietv.m3u8
+#EXTINF:-1 tvg-id="MoreThanSportsTV.de" group-title="Ge Ah",More Than Sports TV (1080p)
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 tvg-id="Motorvision.de" group-title="Ge Ah",Motorvision TV (720p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:-1 tvg-id="MunchenTV.de" group-title="Ge Ah",München TV (1080p) [Not 24/7]
+https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Muxxtv.de" group-title="Ge Ah",Muxx.tv (1080p)
+https://h056.video-stream-hosting.de/easycast9-live/_definst_/mp4:livestream99/playlist.m3u8?ref=
+#EXTINF:-1 tvg-id="MyTVplus.de" group-title="Ge Ah",MyTVplus (Dresden) (576p)
+https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="naheTV.de" group-title="Ge Ah",naheTV (720p) [Geo-blocked]
+https://s.ok54.de/nahetv/webstream/playlist.m3u8
+#EXTINF:-1 tvg-id="NDRFernsehenInternational.de" group-title="Ge Ah",NDR Fernsehen International (720p)
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+#EXTINF:-1 tvg-id="NDRFernsehenHamburg.de" group-title="Ge Ah",NDR Hamburg (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+#EXTINF:-1 tvg-id="NDRFernsehenMecklenburgVorpommern.de" group-title="Ge Ah",NDR Mecklenburg-Vorpommern (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
+#EXTINF:-1 tvg-id="NDRFernsehenNiedersachsen.de" group-title="Ge Ah",NDR Niedersachsen (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:-1 tvg-id="NDRFernsehenSchleswigHolstein.de" group-title="Ge Ah",NDR Schleswig-Holstein (720p)
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.de" group-title="Ge Ah",Nick Ge Ah (1080p) [Geo-blocked]
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
+#EXTINF:-1 tvg-id="NiederbayernTV.de" group-title="Ge Ah",Niederbayern TV (720p)
+https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8
+#EXTINF:-1 tvg-id="NiederbayernTVDeggendorfStraubing.de" group-title="Ge Ah",Niederbayern TV Deggendorf & Straubing (1080p)
+https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8
+#EXTINF:-1 tvg-id="NiederbayernTVLandshut.de" group-title="Ge Ah",Niederbayern TV Landshut (1080p)
+https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/index.m3u8
+#EXTINF:-1 tvg-id="NiederbayernTVLandshut.de" group-title="Ge Ah",Niederbayern TV Landshut (1080p) [Not 24/7]
+https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="NiederbayernTVPassau.de" group-title="Ge Ah",Niederbayern TV Passau (1080p)
+https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8
+#EXTINF:-1 tvg-id="noa4Hamburg.de" group-title="Ge Ah",Noa 4 Hamburg (1080p)
+https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-1 tvg-id="noa4Norderstedt.de" group-title="Ge Ah",Noa 4 Norderstedt (1080p)
+https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:-1 tvg-id="NRWision.de" group-title="Ge Ah",NRWision (1080p)
+https://fms.nrwision.de/live/livestreamHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NRWision.de" group-title="Ge Ah",NRWISION (1080p)
+https://fms.nrwision.de/live/livestreamHD.stream_source/playlist.m3u8
+#EXTINF:-1 tvg-id="NRWision.de" group-title="Ge Ah",NRWision (720p)
+https://fms.nrwision.de/live/livestreamHD.stream_1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="NRWision.de" group-title="Ge Ah",NRWision (360p)
+https://fms.nrwision.de/live/livestreamHD.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="OberlausitzTV.de" group-title="Ge Ah",Oberlausitz TV (1080p)
+https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=
+#EXTINF:-1 tvg-id="OberpfalzTV.de" group-title="Ge Ah",Oberpfalz TV (1080p)
+https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Oeins.de" group-title="Ge Ah",oeins (Oldenburg) (1080p) [Not 24/7]
+https://www.oeins.de/live/studio.m3u8
+#EXTINF:-1 tvg-id="OFTVOffenbach.de" group-title="Ge Ah",OF-TV Offenbach (720p)
+https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
+#EXTINF:-1 tvg-id="OFTVOffenbach.de" group-title="Ge Ah",OF-TV Offenbach (720p)
+https://5864df9ceac85.streamlock.net/germanpictures-live/mp4:streamschedule/playlist.m3u8
+#EXTINF:-1 tvg-id="OK4.de" group-title="Ge Ah",OK4 (720p) [Geo-blocked]
+https://s.ok54.de/abr_ok4/live/playlist.m3u8
+#EXTINF:-1 tvg-id="OK54.de" group-title="Ge Ah",OK54 (720p) [Geo-blocked]
+https://s.ok54.de/ott/webstream/tv/webstream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="OKDessau.de" group-title="Ge Ah",OK Dessau (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKDessau.de" group-title="Ge Ah",OK Dessau (1080p) [Not 24/7]
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-dessau_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKDessau.de" group-title="Ge Ah",OK Dessau (1080p) [Not 24/7]
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-dessau_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKFlensburg.de" group-title="Ge Ah",OK Flensburg (576p)
+https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8
+#EXTINF:-1 tvg-id="OKFulda.de" group-title="Ge Ah",OK Fulda (720p) [Geo-blocked]
+https://s.ok54.de/mok-fu/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="OKGiessen.de" group-title="Ge Ah",OK Gießen (360p) [Geo-blocked]
+https://s.ok54.de/mok-gi/mok-gi/playlist.m3u8
+#EXTINF:-1 tvg-id="OKKaiserslautern.de" group-title="Ge Ah",OK Kaiserslautern (720p) [Geo-blocked]
+https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
+#EXTINF:-1 tvg-id="OKKassel.de" group-title="Ge Ah",OK Kassel (720p) [Geo-blocked]
+https://s.ok54.de/mok-ks/kassel/playlist.m3u8
+#EXTINF:-1 tvg-id="OKKiel.de" group-title="Ge Ah",OK Kiel (576p)
+https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8
+#EXTINF:-1 tvg-id="OKMagdeburg.de" group-title="Ge Ah",OK Magdeburg (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKMagdeburg.de" group-title="Ge Ah",OK Magdeburg (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-magdeburg_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKTVMainz.de" group-title="Ge Ah",OK Mainz (720p) [Geo-blocked]
+https://s.ok54.de/oktvmainz/webstream/playlist.m3u8
+#EXTINF:-1 tvg-id="OKMerseburgQuerfurt.de" group-title="Ge Ah",OK Merseburg-Querfurt (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKMerseburgQuerfurt.de" group-title="Ge Ah",OK Merseburg-Querfurt (1080p) [Not 24/7]
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-merseburg_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKRheinMain.de" group-title="Ge Ah",OK Rhein-Main (576p) [Geo-blocked]
+https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
+#EXTINF:-1 tvg-id="OKRheinLokalWorms.de" group-title="Ge Ah",OK RheinLokal (Worms) (720p) [Geo-blocked]
+https://s.ok54.de/rheinlokal/rheinlOKal_stream/playlist.m3u8
+#EXTINF:-1 tvg-id="OKSalzwedel.de" group-title="Ge Ah",OK Salzwedel (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKSalzwedel.de" group-title="Ge Ah",OK Salzwedel (1080p) [Not 24/7]
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-salzwedel_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKSalzwedel.de" group-title="Ge Ah",OK Salzwedel (1080p) [Not 24/7]
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-salzwedel_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKStendal.de" group-title="Ge Ah",OK Stendal (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-stendal_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKStendal.de" group-title="Ge Ah",OK Stendal (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-stendal_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKSuedwestpfalz.de" group-title="Ge Ah",OK Suedwestpfalz (720p) [Geo-blocked]
+https://s.ok54.de/okswp/test/playlist.m3u8
+#EXTINF:-1 tvg-id="OKTrier.de" group-title="Ge Ah",OK Trier (720p) [Geo-blocked]
+https://s.ok54.de/ott/webstream/playlist.m3u8
+#EXTINF:-1 tvg-id="OKWeinstrasseNeustadt.de" group-title="Ge Ah",OK Weinstraße (Neustadt) (432p) [Geo-blocked]
+https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8
+#EXTINF:-1 tvg-id="OKWernigerode.de" group-title="Ge Ah",OK Wernigerode (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKWernigerode.de" group-title="Ge Ah",OK Wernigerode (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-wernigerode_high/playlist.m3u8
+#EXTINF:-1 tvg-id="OKTVLudwigshafen.de" group-title="Ge Ah",OK-TV Ludwigshafen (720p) [Geo-blocked]
+https://s.ok54.de/oklu/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="oldenburgeins.de" group-title="Ge Ah",oldenburg eins (1080p) [Not 24/7]
+https://oeins.de/live/studio.m3u8
+#EXTINF:-1 tvg-id="One.de" group-title="Ge Ah",One (1080p) [Geo-blocked]
+https://mcdn.one.ard.de/ardone/hls/master.m3u8
+#EXTINF:-1 tvg-id="OneMusicTelevision.de" group-title="Ge Ah",ONE1 Music (1080p)
+https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8
+#EXTINF:-1 tvg-id="OneAdria.de" group-title="Ge Ah",One Adria (1080p)
+https://cdne.folxplay.tv/folx-trz/streams/ch-6/master.m3u8
+#EXTINF:-1 tvg-id="Parlamentsfernsehen1.de" group-title="Ge Ah",Parlamentsfernsehen 1 (1080p) [Not 24/7]
+https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
+#EXTINF:-1 tvg-id="Parlamentsfernsehen2.de" group-title="Ge Ah",Parlamentsfernsehen 2 (1080p) [Not 24/7]
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Parlamentsfernsehen3.de" group-title="Ge Ah",Parlamentsfernsehen 3 (1080p) [Not 24/7]
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Parlamentsfernsehen4.de" group-title="Ge Ah",Parlamentsfernsehen 4 (1080p) [Not 24/7]
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="phoenix.de" group-title="Ge Ah",Phoenix (720p) [Geo-blocked]
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+#EXTINF:-1 tvg-id="ProSieben.de" group-title="Ge Ah",ProSieben (576p)
+#EXTVLCOPT:http-referrer=http://85.187.13.40:18000/
+http://85.187.13.40:18000/ProSieben
+#EXTINF:-1 tvg-id="PUNKTumFernsehen.de" group-title="Ge Ah",PUNKTum Fernsehen (1080p) [Not 24/7]
+http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="Ge Ah",QVC 2 Ge Ah (540p)
+https://qvcde-live.akamaized.net/hls/live/2097104/qps/master.m3u8
+#EXTINF:-1 tvg-id="QVC.de" group-title="Ge Ah",QVC Ge Ah (720p)
+https://qvcde-live.akamaized.net/hls/live/2097104/qvc/master.m3u8
+#EXTINF:-1 tvg-id="QVCStyle.de" group-title="Ge Ah",QVC Style Ge Ah (540p)
+https://qvcde-live.akamaized.net/hls/live/2097104/qby/master.m3u8
+#EXTINF:-1 tvg-id="Radio21TV.de" group-title="Ge Ah",Radio 21 TV (720p)
+https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioBremenFernsehen.de" group-title="Ge Ah",Radio Bremen Fernsehen (1080p) [Geo-blocked]
+https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
+#EXTINF:-1 tvg-id="RadioWeserTVBremen.de" group-title="Ge Ah",Radio Weser TV Bremen (576p)
+https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioWeserTVBremen.de" group-title="Ge Ah",Radio Weser TV Bremen (576p)
+https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/playlist.m3u8
+#EXTINF:-1 tvg-id="RAN1.de" group-title="Ge Ah",RAN1 (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
+#EXTINF:-1 tvg-id="RAN1.de" group-title="Ge Ah",RAN1 (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ran1_high/playlist.m3u8
+#EXTINF:-1 tvg-id="rbbFernsehenBerlin.de" group-title="Ge Ah",RBB Berlin (1080p) [Geo-blocked]
+https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8
+#EXTINF:-1 tvg-id="rbbFernsehenBrandenburg.de" group-title="Ge Ah",RBB Brandenburg (1080p) [Geo-blocked]
+https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
+#EXTINF:-1 tvg-id="RBW.de" group-title="Ge Ah",RBW (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
+#EXTINF:-1 tvg-id="RBW.de" group-title="Ge Ah",RBW (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:rbw_high/playlist.m3u8
+#EXTINF:-1 tvg-id="RBW.de" group-title="Ge Ah",RBW Bitterfeld-Wolfen (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:rbw_high/playlist.m3u8
+#EXTINF:-1 tvg-id="RegioTVBodensee.de" group-title="Ge Ah",Regio TV Bodensee (1080p)
+https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="RegioTVSchwaben.de" group-title="Ge Ah",Regio TV Schwaben (1080p)
+https://stream05.welocal.stream/stream/fhd-regiotv_182913/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="RegioTVStuttgart.de" group-title="Ge Ah",Regio TV Stuttgart (1080p)
+https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="RennsteigTV.de" group-title="Ge Ah",Rennsteig TV (720p)
+http://wowza.telvi.de/rennsteigtv/stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="RFH.de" group-title="Ge Ah",RFH (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
+#EXTINF:-1 tvg-id="RFO.de" group-title="Ge Ah",RFO (1080p)
+https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="RheinMainTV.de" group-title="Ge Ah",RheinMain TV (720p) [Not 24/7]
+https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="RheinMainTV.de" group-title="Ge Ah",rheinmaintv (720p) [Not 24/7]
+https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/chunklist.m3u8
+#EXTINF:-1 tvg-id="RheinMainTV.de" group-title="Ge Ah",rheinmaintv (720p) [Not 24/7]
+https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="RheinMainTV.de" group-title="Ge Ah",rheinmaintv (720p) [Not 24/7]
+https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/playlist.m3u8?=&ref=www.rheinmaintv.de&seid=598541
+#EXTINF:-1 tvg-id="RNF.de" group-title="Ge Ah",RNF (1080p)
+https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="RockAntenne.de" group-title="Ge Ah",Rock Antenne [Not 24/7]
+https://stream.rockantenne.de/rockantenne/stream/mp3
+#EXTINF:-1 tvg-id="RocklandTV.de" group-title="Ge Ah",Rockland TV (480p) [Not 24/7]
+https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTDE.de" group-title="Ge Ah",RT DE (1080p) [Not 24/7]
+https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
+#EXTINF:-1 tvg-id="RTDE.de" group-title="Ge Ah",RT DE (1080p) [Not 24/7]
+https://rt-ger.rttv.com/live/rtdeutsch/playlist.m3u8
+#EXTINF:-1 tvg-id="SaarlandFernsehen1.de" group-title="Ge Ah",Saarland Fernsehen 1 (1080p)
+https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="SaarlandFernsehen2.de" group-title="Ge Ah",Saarland Fernsehen 2 (720p) [Not 24/7]
+https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
+#EXTINF:-1 tvg-id="SachsenEins.de" group-title="Ge Ah",Sachsen Eins (1080p)
+https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="SachsenFernsehenVogtland.de" group-title="Ge Ah",Sachsen Fernsehen Vogtland (1080p)
+https://vogtland.iptv-playoutcenter.de/vogtland/vogtlandfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="SalveTV.de" group-title="Ge Ah",Salve TV (720p)
+https://58de7a369a9c4.streamlock.net/salvetv/ngrp:stream_720p_web/playlist.m3u8
+#EXTINF:-1 tvg-id="SchlagerDeluxe.de" group-title="Ge Ah",Schlager Deluxe (1080p)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+#EXTINF:-1 tvg-id="Seenluft24.de" group-title="Ge Ah",Seenluft24 (1080p)
+https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?ref=
+#EXTINF:-1 tvg-id="SenderNeuJerusalem.de" group-title="Ge Ah",Sender Neu Jerusalem (576p)
+https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8
+#EXTINF:-1 tvg-id="ServusTVDeutschland.de" group-title="Ge Ah",ServusTV Deutschland (720p) [Geo-blocked]
+https://stv-live.akamaized.net/hls/live/2031012/lingeoSTVDEwebPri/master_3392.m3u8
+#EXTINF:-1 tvg-id="SonnenklarTV.de" group-title="Ge Ah",Sonnenklar TV (1080p)
+http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
+#EXTINF:-1 tvg-id="SonusFM.de" group-title="Ge Ah",Sonus FM TV (1080p) [Not 24/7]
+http://www.sonus.fm:1935/public/stream_source/playlist.m3u8
+#EXTINF:-1 tvg-id="SonusFM.de" group-title="Ge Ah",Sonus FM TV (1080p) [Not 24/7]
+https://60015180a7f57.streamlock.net:444/public/stream_source/playlist.m3u8
+#EXTINF:-1 tvg-id="SophiaTV.de" group-title="Ge Ah",Sophia TV (720p)
+https://bild-und-ton.stream/sophiatv-en/smil:sophia-tv-en.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SophiaTVEspanol.de" group-title="Ge Ah",Sophia TV Español (720p)
+https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SophiaTV.it" group-title="Ge Ah",Sophia TV Italy (720p)
+https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SouvenirsfromEarthTV.de" group-title="Ge Ah",Souvenirs from Earth TV
+#EXTVLCOPT:http-referrer=https://player.castr.com/live_f3bc1800279a11ec89f80341acd6773a
+https://stream.castr.com/615c867def76d75817460129/live_f3bc1800279a11ec89f80341acd6773a/index.m3u8
+#EXTINF:-1 tvg-id="SRFernsehen.de" group-title="Ge Ah",SR Fernsehen (720p)
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+#EXTINF:-1 tvg-id="SRF.de" group-title="Ge Ah",SRF (1080p)
+https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="Studio47.de" group-title="Ge Ah",Studio 47 (576p)
+https://h057.video-stream-hosting.de/studio47-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="SWR3VisualRadio.de" group-title="Ge Ah",SWR 3 Visual Radio (720p)
+https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
+#EXTINF:-1 tvg-id="SWRFernsehenBadenWurttemberg.de" group-title="Ge Ah",SWR Fernsehen Baden-Württemberg (720p) [Geo-blocked]
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+#EXTINF:-1 tvg-id="SWRFernsehenRheinlandPfalz.de" group-title="Ge Ah",SWR Fernsehen Rheinland-Pfalz (720p) [Geo-blocked]
+https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
+#EXTINF:-1 tvg-id="Sylt1.de" group-title="Ge Ah",Sylt1 (404p)
+https://5f7f7503aa549.streamlock.net/Sylt1_Channel_1_PGM/sylt1_high/Playlist.m3u8
+#EXTINF:-1 tvg-id="tagesschau24.de" group-title="Ge Ah",Tagesschau 24 (720p)
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-id="teltOwkanal.de" group-title="Ge Ah",teltOwkanal (1080p)
+https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8
+#EXTINF:-1 tvg-id="TideTV.de" group-title="Ge Ah",Tide TV (1080p)
+https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TideTV.de" group-title="Ge Ah",Tide TV (1080p) [Not 24/7]
+https://5889e7d0d6e28.streamlock.net/tide-live/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="tiviTURK.de" group-title="Ge Ah",tiviTÜRK (720p) [Not 24/7]
+https://stream.tiviturk.de/live/tiviturk.m3u8
+#EXTINF:-1 tvg-id="TV38SudostNiedersachen.de" group-title="Ge Ah",TV38 Südost-Niedersachen (1080p)
+https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8?ref=
+#EXTINF:-1 tvg-id="TVBerlin.de" group-title="Ge Ah",TV Berlin (720p)
+https://live2.telvi.de/hls/tvberlin.m3u8
+#EXTINF:-1 tvg-id="TVIngolstadt.de" group-title="Ge Ah",TV Ingolstadt (1080p)
+https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMainfranken.de" group-title="Ge Ah",TV Mainfranken (1080p) [Not 24/7]
+https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMittelrhein.de" group-title="Ge Ah",TV Mittelrhein (720p)
+https://live2.telvi.de/hls/tvm_hd720.m3u8
+#EXTINF:-1 tvg-id="TVOberfranken.de" group-title="Ge Ah",TV Oberfranken (TVO) (1080p) [Not 24/7]
+https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVA.de" group-title="Ge Ah",TVA (1080p) [Not 24/7]
+https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="VolksmusikTV.de" group-title="Ge Ah",Volksmusik TV (1080p)
+https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
+#EXTINF:-1 tvg-id="WDR1Live.de" group-title="Ge Ah",WDR 1 Live (720p)
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
+#EXTINF:-1 tvg-id="WDR1Live.de" group-title="Ge Ah",WDR 1 Live (720p)
+https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehenAachen.de" group-title="Ge Ah",WDR Fernsehen Aachen (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehenBielefeld.de" group-title="Ge Ah",WDR Fernsehen Bielefeld (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehenBonn.de" group-title="Ge Ah",WDR Fernsehen Bonn (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehenDortmund.de" group-title="Ge Ah",WDR Fernsehen Dortmund (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehenDuisburg.de" group-title="Ge Ah",WDR Fernsehen Duisburg (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehenDusseldorf.de" group-title="Ge Ah",WDR Fernsehen Düsseldorf (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehenEssen.de" group-title="Ge Ah",WDR Fernsehen Essen (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehenKoln.de" group-title="Ge Ah",WDR Fernsehen Köln (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehenMunster.de" group-title="Ge Ah",WDR Fernsehen Münster (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehenSiegen.de" group-title="Ge Ah",WDR Fernsehen Siegen (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8
+#EXTINF:-1 tvg-id="WDRFernsehenWuppertal.de" group-title="Ge Ah",WDR Fernsehen Wuppertal (720p) [Geo-blocked]
+https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8
+#EXTINF:-1 tvg-id="WeltderWunderTV.de" group-title="Ge Ah",Welt der Wunder TV (576p)
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+#EXTINF:-1 tvg-id="Wir24TV.de" group-title="Ge Ah",Wir24 TV (1080p) [Geo-blocked]
+https://edge14.vedge.infomaniak.com/livecast/ik:wir24tv_hms/manifest.m3u8
+#EXTINF:-1 tvg-id="WWTV.de" group-title="Ge Ah",WW TV (720p)
+https://live2.telvi.de/hls/wwtv_hd720.m3u8
+#EXTINF:-1 tvg-id="ZDF.de" group-title="Ge Ah",ZDF (720p) [Geo-blocked]
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1 tvg-id="ZDFinfo.de" group-title="Ge Ah",ZDFinfo (720p) [Geo-blocked]
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#EXTINF:-1 tvg-id="ZDFneo.de" group-title="Ge Ah",ZDFneo (720p) [Geo-blocked]
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+#EXTINF:-1 tvg-id="ZweiMusicTelevision.de" group-title="Ge Ah",ZWEI2 Music (1080p)
+https://cdne.folxplay.tv/folx-trz/streams/ch-2/master.m3u8
+#EXTINF:-1 tvg-id="MTV.de" group-title="Ge Ah",MTV Ge Ah (1080p) [Geo-blocked]
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/master_5000.m3u8
